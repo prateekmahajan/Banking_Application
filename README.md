@@ -1,11 +1,11 @@
 # Banking-Application
 An android project on Banking system
 
-[get from above](APK_Package_Banking Application_1.0.apk)
+![get from above] (APK_Package_Banking Application_1.0.apk)
 
 ## Refer Snapshots
 ### Welcome Screen
-![unable to load Homepage image](snapshot/IntroLOGO.jpeg)
+![unable to load Homepage image] (snapshot/IntroLOGO.jpeg)
 
 ### User Registration Page
 ![unable to load Homepage image](snapshot/registration.jpeg)
