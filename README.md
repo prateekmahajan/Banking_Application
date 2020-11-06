@@ -1,7 +1,7 @@
 # Banking-Application
 An android project on Banking system
 
-!Download APK file [get from above](APK_Package_Banking Application_1.0.apk)
+[get from above](APK_Package_Banking Application_1.0.apk)
 
 ## Refer Snapshots
 ### Welcome Screen
