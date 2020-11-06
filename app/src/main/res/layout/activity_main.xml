@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgevery"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WELCOME TO BANK"
+            android:textSize="30dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="60dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHECK BALANCE"
+            android:textAllCaps="false"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="40dp"
+            android:background="#2CB4F1"
+           android:id="@+id/check"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/withdraw"
+            android:layout_marginRight="40dp"
+            android:background="#2CB4F1"
+            android:text="Withdraw"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="50dp"
+            android:id="@+id/deposite"
+            android:layout_marginRight="40dp"
+            android:background="#2CB4F1"
+            android:text="Deposite"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>
